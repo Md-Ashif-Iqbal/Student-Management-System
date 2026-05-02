@@ -1,4 +1,4 @@
-This is 'Student Management Sytem' Program build using Java [we use File Handling concept to take input from the User], JDBC [Java Database Connectivity] and Oracle DB 
+This is 'Student Management Sytem' Program build using Java [I use File Handling concept to take input from the User], JDBC [Java Database Connectivity] and Oracle DB 
 And follow proper MVC Architecture to build this Application
 In this Program you can ADD student, DELETE student by using Student Id, SEARCH student, and UPDATE student
 
